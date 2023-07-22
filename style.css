@@ -128,7 +128,7 @@ nav {
     margin-bottom: 28px;
 }
 
-.about-me_img--container {
+.about-me__img--container {
     flex: 1;
     display: flex;
     align-items: center;
